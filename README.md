@@ -13,5 +13,5 @@
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=sh-tanya&theme=onedark&line=ffdcac&point=FF4E15&custom_title=Recent+activity" alt="sh-tanya" /></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sh-tanya&style=for-the-badge&color=ffdcac">
+  <img src="https://komarev.com/ghpvc/?username=sh-tanya&style=for-the-badge&color=6f5163">
 </p>
