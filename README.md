@@ -1,7 +1,7 @@
 ### Hola, I'm Tanya 👋
-- 🎓 A BMSTU Engineer student
+- 🎓 A BMSTU Engineer graduate
 - ✨ Teaching kids programming and computer literacy
-- 🎓 Currently learning C and waiting for my School 21 results
+- 🎓 School 21 student
 - ✨ You can contact me via tanyashkutova@mail.ru
 
 ## 💻 Tools and Technologies
