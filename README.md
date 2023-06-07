@@ -1,4 +1,4 @@
-### Hola, I'm Tanya 👋
+### Hello, I'm Tanya 👋
 - 🎓 A BMSTU Engineer graduate
 - ✨ Teaching kids programming and computer literacy
 - 🎓 21 School student
